@@ -1,0 +1,86 @@
+{
+  "_comment": "PLACEHOLDER : questions factices en attendant les vraies questions du jeu Sous la Surface (à fournir par Lumina Mastery). Garder des identifiants stables.",
+  "placeholder": true,
+  "cards": [
+    {
+      "id": "q01",
+      "text": "[PLACEHOLDER] What small moment from this week would you like to keep?"
+    },
+    {
+      "id": "q02",
+      "text": "[PLACEHOLDER] What gives you momentum right now?"
+    },
+    {
+      "id": "q03",
+      "text": "[PLACEHOLDER] What conversation would you like to have soon?"
+    },
+    {
+      "id": "q04",
+      "text": "[PLACEHOLDER] Which place feels most like you?"
+    },
+    {
+      "id": "q05",
+      "text": "[PLACEHOLDER] What have you learned from someone close to you?"
+    },
+    {
+      "id": "q06",
+      "text": "[PLACEHOLDER] Which habit would you like to keep for a long time?"
+    },
+    {
+      "id": "q07",
+      "text": "[PLACEHOLDER] What makes you smile for no reason?"
+    },
+    {
+      "id": "q08",
+      "text": "[PLACEHOLDER] Which memory often comes back to visit you?"
+    },
+    {
+      "id": "q09",
+      "text": "[PLACEHOLDER] What would you say to the person you were five years ago?"
+    },
+    {
+      "id": "q10",
+      "text": "[PLACEHOLDER] What deserves more room in your days?"
+    },
+    {
+      "id": "q11",
+      "text": "[PLACEHOLDER] Which season feels like you today?"
+    },
+    {
+      "id": "q12",
+      "text": "[PLACEHOLDER] Which compliment have you never dared to give?"
+    },
+    {
+      "id": "q13",
+      "text": "[PLACEHOLDER] What are you curious about right now?"
+    },
+    {
+      "id": "q14",
+      "text": "[PLACEHOLDER] Which object tells a story about you?"
+    },
+    {
+      "id": "q15",
+      "text": "[PLACEHOLDER] What promise would you like to make to yourself?"
+    },
+    {
+      "id": "q16",
+      "text": "[PLACEHOLDER] What does silence bring you?"
+    },
+    {
+      "id": "q17",
+      "text": "[PLACEHOLDER] Who would you like to thank?"
+    },
+    {
+      "id": "q18",
+      "text": "[PLACEHOLDER] What feels lighter than before?"
+    },
+    {
+      "id": "q19",
+      "text": "[PLACEHOLDER] Which dream are you keeping for later?"
+    },
+    {
+      "id": "q20",
+      "text": "[PLACEHOLDER] What would you like people to know about you without having to say it?"
+    }
+  ]
+}

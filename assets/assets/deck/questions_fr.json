@@ -1,0 +1,86 @@
+{
+  "_comment": "PLACEHOLDER : questions factices en attendant les vraies questions du jeu Sous la Surface (à fournir par Lumina Mastery). Garder des identifiants stables.",
+  "placeholder": true,
+  "cards": [
+    {
+      "id": "q01",
+      "text": "[PLACEHOLDER] Quel petit moment de la semaine aimeriez-vous garder ?"
+    },
+    {
+      "id": "q02",
+      "text": "[PLACEHOLDER] Qu'est-ce qui vous donne de l'élan en ce moment ?"
+    },
+    {
+      "id": "q03",
+      "text": "[PLACEHOLDER] Quelle conversation aimeriez-vous avoir bientôt ?"
+    },
+    {
+      "id": "q04",
+      "text": "[PLACEHOLDER] Quel lieu vous ressemble le plus ?"
+    },
+    {
+      "id": "q05",
+      "text": "[PLACEHOLDER] Qu'avez-vous appris de quelqu'un de proche ?"
+    },
+    {
+      "id": "q06",
+      "text": "[PLACEHOLDER] Quelle habitude aimeriez-vous garder longtemps ?"
+    },
+    {
+      "id": "q07",
+      "text": "[PLACEHOLDER] Qu'est-ce qui vous fait sourire sans raison ?"
+    },
+    {
+      "id": "q08",
+      "text": "[PLACEHOLDER] Quel souvenir revient souvent vous visiter ?"
+    },
+    {
+      "id": "q09",
+      "text": "[PLACEHOLDER] Que diriez-vous à la personne que vous étiez il y a cinq ans ?"
+    },
+    {
+      "id": "q10",
+      "text": "[PLACEHOLDER] Qu'est-ce qui mérite plus de place dans vos journées ?"
+    },
+    {
+      "id": "q11",
+      "text": "[PLACEHOLDER] Quelle saison vous ressemble aujourd'hui ?"
+    },
+    {
+      "id": "q12",
+      "text": "[PLACEHOLDER] Quel compliment n'avez-vous jamais osé faire ?"
+    },
+    {
+      "id": "q13",
+      "text": "[PLACEHOLDER] Qu'est-ce qui vous rend curieuse ou curieux en ce moment ?"
+    },
+    {
+      "id": "q14",
+      "text": "[PLACEHOLDER] Quel objet raconte une histoire sur vous ?"
+    },
+    {
+      "id": "q15",
+      "text": "[PLACEHOLDER] Quelle promesse aimeriez-vous vous faire ?"
+    },
+    {
+      "id": "q16",
+      "text": "[PLACEHOLDER] Qu'est-ce que le silence vous apporte ?"
+    },
+    {
+      "id": "q17",
+      "text": "[PLACEHOLDER] Quelle personne aimeriez-vous remercier ?"
+    },
+    {
+      "id": "q18",
+      "text": "[PLACEHOLDER] Qu'est-ce qui vous semble plus léger qu'avant ?"
+    },
+    {
+      "id": "q19",
+      "text": "[PLACEHOLDER] Quel rêve gardez-vous pour plus tard ?"
+    },
+    {
+      "id": "q20",
+      "text": "[PLACEHOLDER] Qu'aimeriez-vous que l'on sache de vous sans avoir à le dire ?"
+    }
+  ]
+}
